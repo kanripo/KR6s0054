@@ -6,14 +6,14 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2862
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6s0054_T_000-1322c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0054_T_001-1322c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 No. 2862¶
-大蕃沙洲釋門教法和尚洪辯修¶
+大蕃沙洲釋門教法和尚洪[(工*刀)/言]修¶
 功德記¶
 ¶
 
